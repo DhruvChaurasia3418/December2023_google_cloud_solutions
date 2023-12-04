@@ -2,6 +2,10 @@
 ##### solution
 https://youtu.be/E3MbLn8O2Zc
 
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -11,23 +15,37 @@ github file used in this solution: https://github.com/DhruvChaurasia3418/Decembe
 
 https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets/76548079/07108332-4c3a-441b-aaec-0f3c8d88a10a
 
+<br>
+<br>
+<br>
+<br>
 
 
 
 #### 3)follow this same video to solve labs:
 1.Generative AI Film Chatbot<br>
-2.Generative AI Basketball Chatbot
-3.Generative AI Vacation Chatbot 
-4.Generative AI Music Chatbot
+2.Generative AI Basketball Chatbot<br>
+3.Generative AI Vacation Chatbot <br>
+4.Generative AI Music Chatbot<br>
 
 ##### solution
 https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets/76548079/7e157ab6-08c8-4f9f-8c68-534c82b5df5a
 
 
+<br>
+<br>
+<br>
+<br>
 
 
 
 #### 4)Get Started with Generative AI Studio
 ##### solution
 https://www.youtube.com/watch?v=pabY9wW5eLg
+
+<br>
+<br>
+<br>
+<br>
+
 
