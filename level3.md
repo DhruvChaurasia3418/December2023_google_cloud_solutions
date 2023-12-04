@@ -2,6 +2,9 @@
 ##### solution
 https://youtu.be/E3MbLn8O2Zc
 
+
+
+
 #### 2)Vertex AI PaLM API: Qwik Start
 ##### solution
 github file used in this solution: https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/blob/main/Vertex%20AI%20PaLM%20API:%20Qwik%20Start
@@ -19,6 +22,10 @@ https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets
 
 ##### solution
 https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets/76548079/7e157ab6-08c8-4f9f-8c68-534c82b5df5a
+
+
+
+
 
 #### 4)Get Started with Generative AI Studio
 ##### solution
