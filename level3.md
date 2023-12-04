@@ -15,7 +15,7 @@ https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets
 
 
 #### 3)follow this same video to solve labs:
-1.Generative AI Film Chatbot
+1.Generative AI Film Chatbot<br>
 2.Generative AI Basketball Chatbot
 3.Generative AI Vacation Chatbot 
 4.Generative AI Music Chatbot
