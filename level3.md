@@ -6,8 +6,7 @@ https://youtu.be/E3MbLn8O2Zc
 <br>
 <br>
 <br>
-
-
+<br>
 
 #### 2)Vertex AI PaLM API: Qwik Start
 ##### solution
@@ -19,10 +18,9 @@ https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets
 <br>
 <br>
 <br>
+<br>
 
-
-
-#### 3)follow this same video to solve labs:
+#### 3)Follow this same video to solve labs:
 1.Generative AI Film Chatbot<br>
 2.Generative AI Basketball Chatbot<br>
 3.Generative AI Vacation Chatbot <br>
@@ -36,8 +34,7 @@ https://github.com/DhruvChaurasia3418/December2023_google_cloud_solutions/assets
 <br>
 <br>
 <br>
-
-
+<br>
 
 #### 4)Get Started with Generative AI Studio
 ##### solution
@@ -47,5 +44,10 @@ https://www.youtube.com/watch?v=pabY9wW5eLg
 <br>
 <br>
 <br>
+<br>
+
+#### 5)Analyze Images with the Cloud Vision API: Challenge Lab
+##### solution
+https://www.youtube.com/watch?v=a483D_eESDQ
 
 
